@@ -7,7 +7,7 @@ import "./style.scss";
 
 import { fetchDataFromApi } from "../../utils/api";
 import ContentWrapper from "../../components/contentWrapper/ContentWrapper";
-import MovieCard from "../../components/movieCard/MovieCard";
+import MovieCard from "../../components/moviecard/MovieCard"
 import Spinner from "../../components/spinner/Spinner";
 import useFetch from "../../hooks/UseFetch";
 
